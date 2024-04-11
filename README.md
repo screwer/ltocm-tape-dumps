@@ -18,6 +18,6 @@ where:
 	**serial** is NFC serial number,
     **barcode** is case-label, if exist
     
-Also some cartridges has hand-written **cross** on it's case (i think it indicates some sort of fault). These dumps have **-x** suffix in name.
+Also some cartridges, mainly Sun, had hand-written **cross** on it's case (i think it indicates some sort of fault). These dumps have **"-x"** suffix in name.
 
-Since nfc-tool unable to dump LTO-6 tapes, they're placed into "fixme_L6" folder for future processing.
+Since nfc-tool unable to dump LTO-6 tapes, they're placed into "fixme_L6" folder for further processing.
